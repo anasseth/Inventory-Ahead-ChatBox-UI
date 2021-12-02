@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+2:wght@500&display=swap");
+body {
+  font-family: "M PLUS 2";
+}
+
+.wp-block-image img {
+  width: 300px !important;
+}
+.breadcrumb-trail {
+  display: none;
+  visibility: hidden;
+}
+.entry-meta {
+  display: none;
+  visibility: hidden;
+}
+img.profile-image.thumb {
+  display: none;
+  visibility: hidden;
+}
+.profile-content {
+  display: none;
+  visibility: hidden;
+}
+.clearfix {
+  display: none;
+  visibility: hidden;
+}
+// .avatar .avatar-70 .photo {
+//   display: none;
+//   visibility: hidden;
+// }
